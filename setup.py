@@ -6,7 +6,6 @@ import add_overlay
 
 setup(
     name = "add_overlay",
-    version = add_overlay.__version__,
     url = 'https://github.com/aikenpang/ultra96_overlayExample1',
     license = 'All rights reserved.',
     author = "Aiken Pang",
